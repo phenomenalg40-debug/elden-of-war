@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Credits | Elden of War</title>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Montserrat:wght@300;500&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Montserrat', sans-serif;
+      background: radial-gradient(circle at top, #24160f, #090909);
+      color: #e6d6b8;
+    }
+    header {
+      text-align: center;
+      padding: 80px 20px;
+      background: linear-gradient(to bottom, rgba(0,0,0,0.95), rgba(0,0,0,0.6));
+      border-bottom: 1px solid #3a2a1a;
+    }
+    header h1 {
+      font-family: 'Cinzel', serif;
+      font-size: 56px;
+      letter-spacing: 4px;
+      color: #ffb347;
+      margin-bottom: 15px;
+    }
+    header p {
+      font-size: 18px;
+      opacity: 0.85;
+    }
+    .container {
+      max-width: 1000px;
+      margin: auto;
+      padding: 60px 20px;
+      text-align: center;
+    }
+    .credit-card {
+      background: linear-gradient(145deg, #1a120c, #0f0a07);
+      border: 1px solid #3b2a1c;
+      border-radius: 18px;
+      padding: 40px 30px;
+      margin-bottom: 40px;
+      box-shadow: 0 0 30px rgba(255,170,80,0.1);
+    }
+    .credit-card h2 {
+      font-family: 'Cinzel', serif;
+      color: #ffb347;
+      font-size: 34px;
+      margin-bottom: 10px;
+    }
+    .role {
+      font-size: 16px;
+      opacity: 0.85;
+      margin-bottom: 20px;
+      letter-spacing: 1px;
+    }
+    .credit-card p {
+      font-size: 16px;
+      line-height: 1.8;
+      opacity: 0.9;
+    }
+    footer {
+      text-align: center;
+      padding: 35px;
+      background: rgba(0,0,0,0.9);
+      border-top: 1px solid #3a2a1a;
+      font-size: 14px;
+      opacity: 0.7;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>CREDITS</h1>
+  <p>Those Who Forged the Path of War</p>
+</header>
+
+<div class="container">
+
+  <div class="credit-card">
+    <h2>Anunoy Biswas</h2>
+    <div class="role">Founder • Owner • Lead Visionary</div>
+    <p>
+      Anunoy Biswas is the owner of Dream Dynasty Entertainment and the creative force behind 
+      <strong>Elden of War</strong>. From concept to execution, his vision shaped the world, 
+      mythology, and direction of the game.
+    </p>
+  </div>
+
+  <div class="credit-card">
+    <h2>Gorka Games</h2>
+    <div class="role">Special Thanks • Development Support</div>
+    <p>
+      Special thanks to <strong>Gorka Games</strong> for their valuable support, guidance, 
+      and assistance during development. Their help played an important role in bringing 
+      Elden of War to life.
+    </p>
+  </div>
+
+  <div class="credit-card">
+    <h2>Asmita Maity</h2>
+    <div class="role">UI / UX Designer</div>
+    <p>
+      Asmita Maity is responsible for the user interface and visual layout of Elden of War. 
+      Her design work helped define the game's identity, atmosphere, and immersive experience.
+    </p>
+  </div>
+
+</div>
+
+<footer>
+  © 2026 Dream Dynasty Entertainment — Elden of War
+</footer>
+
+</body>
+</html>
